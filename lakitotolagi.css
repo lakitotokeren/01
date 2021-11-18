@@ -53,7 +53,7 @@
     .button-blue,
     .button-green,
     .button-yellow {
-        background-image: linear-gradient(to right, #9d171454, #a71010);
+        background-image: linear-gradient(to right, #7d1210, #a71010);
         box-shadow: none;
         border: none;
     }
@@ -70,11 +70,11 @@
     }
 
     .page-header {
-        background: linear-gradient(to right, #9d171454, #a71010);
+        background: linear-gradient(to right, #7d1210, #a71010);
     }
 
     .button-orange {
-        background-image: linear-gradient(to right, #9d171454, #a71010);
+        background-image: linear-gradient(to right, #7d1210, #a71010);
     }
 
     .buttonlc2 {
@@ -110,7 +110,7 @@
 
         .pool-name {
             color: #ffffff !important;
-            background: linear-gradient(to right, #9d171454, #a71010) !important;
+            background: linear-gradient(to right, #7d1210, #a71010) !important;
             width: 100% !important;
             font-size: 13px !important;
             font-weight: bold !important;
